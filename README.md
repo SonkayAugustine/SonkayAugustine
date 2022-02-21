@@ -1,9 +1,10 @@
 
-👋 Hi there I'm [Sonkay](https://www.linkedin.com/in/sonkay-conteh-63616014b/) 
-👀 I’m interested in System_engineering-devops & Front-end dev
-🌱 I’m currently learning Python, ruby, JS and C
-💞️ I’m looking to collaborate on flutter
-📫 How to reach me email:zamanisonkay@gmail.com
+Hi there I'm [Sonkay](https://www.linkedin.com/in/sonkay-conteh-63616014b/) 👋 
+
+- 👀 I’m interested in System_engineering-devops & Front-end dev
+- 🌱 I’m currently learning Python, ruby, JS and C
+- 💞️ I’m looking to collaborate on flutter
+- 📫 How to reach me email:zamanisonkay@gmail.com
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
