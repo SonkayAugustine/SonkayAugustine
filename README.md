@@ -17,6 +17,6 @@ Hi there I'm [Sonkay](https://www.linkedin.com/in/sonkay-conteh-63616014b/) 👋
 
 <!--START_SECTION:waka-->
 ```text
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
