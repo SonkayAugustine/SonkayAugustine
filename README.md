@@ -16,7 +16,9 @@ Hi there I'm [Sonkay](https://www.linkedin.com/in/sonkay-conteh-63616014b/) 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonkayAugustine&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
